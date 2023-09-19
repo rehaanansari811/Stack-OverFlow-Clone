@@ -36,7 +36,7 @@ npm start
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
+[Click here](https://stack-overflow-clone-by-rehaan.netlify.app/)
 
 ## Contributions
 
@@ -50,4 +50,4 @@ This website uses icons from font awesome.
 
 If you are a Null Class student the repo is updated from the old one. If you need the old repo you can checkout the branch I have created.
 
-Made with ❤️ by [@Rehaan Ansari](https://twitter.com/Manoj_Athi)
+Made with ❤️ by [@Rehaan Ansari](https://www.linkedin.com/in/rehaan-ansari/)
