@@ -31,8 +31,8 @@ npm start
 
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/rehaanansari811/Stack-OverFlow-Clone/blob/main/Screenshots/Homepage.png">
+<img src="https://github.com/rehaanansari811/Stack-OverFlow-Clone/blob/main/Screenshots/Question.png">
 
 ## Live Link for the website:
 
